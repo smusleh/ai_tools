@@ -25,3 +25,4 @@ In this article, we’ll explore a wide range of deep learning visualizations an
 How to Calculate Precision, Recall, F1, and More for Deep Learning Models
 
 [Deep Learning Monitor the training process](https://carpentries-incubator.github.io/deep-learning-intro/3-monitor-the-model.html)
+In this episode we will explore how to monitor the training progress, evaluate our the model predictions and finetune the model to avoid over-fitting. For that we will use a more complicated weather data-set.
