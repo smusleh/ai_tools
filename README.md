@@ -2,26 +2,23 @@
 Useful AI tools and links
 
 ### ietk-ret
-[This repository contains a collection of enhancement methods useful for retinal fundus images, with emphasis on Pixel Color Amplification.] (https://github.com/adgaudio/ietk-ret)
+[This repository contains a collection of enhancement methods useful for retinal fundus images, with emphasis on Pixel Color Amplification.](https://github.com/adgaudio/ietk-ret)
 These methods are very useful as a pre-processing step to fundus image analysis and machine learning. They have applicability to a wide variety of image domains, but we focus on retinal fundus images.
 
 ======================================
 
-https://wiki.pathmind.com/python-ai
-
-A Beginner’s Guide to Important Topics in AI, Machine Learning, and Deep Learning.
+### A Beginner’s Guide to Important Topics in AI
+[A Beginner’s Guide to Important Topics in AI, Machine Learning, and Deep Learning.](https://wiki.pathmind.com/python-ai)
 
 ======================================
 
-https://towardsdatascience.com/generating-image-segmentation-masks-the-easy-way-dd4d3656dbd1
+[Generating Image Segmentation Masks — The Easy Way](https://towardsdatascience.com/generating-image-segmentation-masks-the-easy-way-dd4d3656dbd1)
 
-https://gist.github.com/abhirooptalasila/8e46033b1190279040060588f44d8dc1#file-maskgen-py
-
-Generating Image Segmentation Masks — The Easy Way
+[Generating Image Segmentation Masks — The Easy Way](https://gist.github.com/abhirooptalasila/8e46033b1190279040060588f44d8dc1#file-maskgen-py)
 
 =======================================
 
-https://neptune.ai/blog/deep-learning-visualization
+[How to Visualize Deep Learning Models](https://neptune.ai/blog/deep-learning-visualization)
 
 How to Visualize Deep Learning Models
 
@@ -33,6 +30,6 @@ In this article, we’ll explore a wide range of deep learning visualizations an
 
 ===========================================
 
-https://machinelearningmastery.com/how-to-calculate-precision-recall-f1-and-more-for-deep-learning-models/
+[How to Calculate Precision, Recall, F1, and More for Deep Learning Models](https://machinelearningmastery.com/how-to-calculate-precision-recall-f1-and-more-for-deep-learning-models/)
 
 How to Calculate Precision, Recall, F1, and More for Deep Learning Models
