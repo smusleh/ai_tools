@@ -23,3 +23,5 @@ In this article, we’ll explore a wide range of deep learning visualizations an
 [How to Calculate Precision, Recall, F1, and More for Deep Learning Models](https://machinelearningmastery.com/how-to-calculate-precision-recall-f1-and-more-for-deep-learning-models/)
 
 How to Calculate Precision, Recall, F1, and More for Deep Learning Models
+
+[Deep Learning Monitor the training process](https://carpentries-incubator.github.io/deep-learning-intro/3-monitor-the-model.html)
