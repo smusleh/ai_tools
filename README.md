@@ -2,8 +2,8 @@
 Useful AI tools and links
 
 ### ietk-ret
-[This repository contains a collection of enhancement methods useful for retinal fundus images, with emphasis on Pixel Color Amplification.
-These methods are very useful as a pre-processing step to fundus image analysis and machine learning. They have applicability to a wide variety of image domains, but we focus on retinal fundus images.](https://github.com/adgaudio/ietk-ret)
+[This repository contains a collection of enhancement methods useful for retinal fundus images, with emphasis on Pixel Color Amplification.] (https://github.com/adgaudio/ietk-ret)
+These methods are very useful as a pre-processing step to fundus image analysis and machine learning. They have applicability to a wide variety of image domains, but we focus on retinal fundus images.
 
 ======================================
 
